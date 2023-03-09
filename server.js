@@ -30,4 +30,4 @@ app.post('/Note', async (req, res) => {
 })
 //start the server
 
-app.listen(process.env.PORT);
+app.listen(3000);
