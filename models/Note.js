@@ -6,4 +6,4 @@ const noteSchema=new mongoose.Schema({
 const Note =mongoose.model('Note',noteSchema);
 module.exports=Note;
 
-console.log('hello world')
+
