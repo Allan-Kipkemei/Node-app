@@ -29,5 +29,5 @@ app.post('/Note', async (req, res) => {
     })
 })
 //start the server
-
+console.log('hello node')
 app.listen(3000);
